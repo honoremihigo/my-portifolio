@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="256" height="256">
+  <defs>
+    <linearGradient id="bj5aP49RGB0SfTaUJzS3Ga" x1="24" x2="24" y1="6" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3fc0f8" />
+      <stop offset="1" stop-color="#005cb3" />
+    </linearGradient>
+    <linearGradient id="bj5aP49RGB0SfTaUJzS3Gc" x1="24" x2="24" y1="15" y2="33" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" />
+      <stop offset=".325" stop-color="#fbfbfc" />
+      <stop offset=".662" stop-color="#eeeef4" />
+      <stop offset="1" stop-color="#dadae6" />
+    </linearGradient>
+    <radialGradient id="bj5aP49RGB0SfTaUJzS3Gb" cx="24" cy="24" r="18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5cbfe6" stop-opacity="0" />
+      <stop offset=".334" stop-color="#5abde4" stop-opacity=".019" />
+      <stop offset=".503" stop-color="#54b5dd" stop-opacity=".082" />
+      <stop offset=".635" stop-color="#4aa8d1" stop-opacity=".192" />
+      <stop offset=".748" stop-color="#3c95c0" stop-opacity=".348" />
+      <stop offset=".848" stop-color="#297daa" stop-opacity=".55" />
+      <stop offset=".939" stop-color="#13608f" stop-opacity=".794" />
+      <stop offset="1" stop-color="#004779" />
+    </radialGradient>
+  </defs>
+  <g data-name="buttons">
+    <circle cx="24" cy="24" r="18" fill="url(#bj5aP49RGB0SfTaUJzS3Ga)" />
+    <circle cx="24" cy="24" r="18" fill="url(#bj5aP49RGB0SfTaUJzS3Gb)" opacity=".5" />
+    <path fill="url(#bj5aP49RGB0SfTaUJzS3Gc)" d="M20.1,15.687,24,27.523l3.887-11.835a1,1,0,0,1,.95-.688h4.142a1,1,0,0,1,1,1V32a1,1,0,0,1-1,1H30.51a1,1,0,0,1-1-1V28.8l.431-8.6L25.707,32.329a1,1,0,0,1-.945.671H23.237a1,1,0,0,1-.944-.67L18.046,20.18l.432,8.617V32a1,1,0,0,1-1,1H15.021a1,1,0,0,1-1-1V16a1,1,0,0,1,1-1h4.13A1,1,0,0,1,20.1,15.687Z" />
+  </g>
+</svg>
